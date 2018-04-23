@@ -1,3 +1,6 @@
 # web_app-uploading_images
 
-web-app on NodeJS 
+Web-app on NodeJS with:
+ - Gulp assembly system;
+ - Vue.js - Front-end framework;
+ - Sails - framework
