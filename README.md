@@ -3,4 +3,4 @@
 Web-app on NodeJS with:
  - Gulp assembly system;
  - Vue.js - Front-end framework;
- - Sails - framework
+ - Sails - Back-end framework;
